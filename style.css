@@ -1,0 +1,37 @@
+body{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+    padding: 0;
+    margin: 0;
+}
+div{
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.options{
+    display: flex;
+    justify-content: space-around;
+}
+
+.innercontainer{
+    display: grid;
+    width: 80%;
+    background-color: lightgreen; 
+    align-content: space-around;
+}
+.score{
+    display: flex;
+    justify-content: space-between;
+
+}
